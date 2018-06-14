@@ -1,0 +1,70 @@
+p{
+  font-size: 20px;
+}
+
+.row{
+  display: flex;
+}
+
+.row-head{
+  display: table;
+  height: 142px;
+}
+
+.col-Q{
+  /*flex: 25.4%;*/
+  margin-left: 50px;
+  padding-top: 9px;
+  height: 735px;
+}
+.col-2{
+  flex: 74.6%;
+  padding-top: 30px;
+  height: 735px;
+}
+
+.row-hours{
+  text-align: center;
+  height: 48px;
+  padding-top: 2px;
+  padding-bottom: 3px;
+}
+
+.hours-text{
+  display: inline;
+}
+
+#communications{
+  width: 468px;
+  height: 882px;
+  overflow: hidden;
+  padding-left: 8px;
+}
+
+#hours{
+  width: 1383.93px;
+  height: 49px;
+  overflow: hidden;
+  margin-left: 10px;
+  padding-bottom: 2px;
+}
+
+#slider{
+  width: 1054.5px;
+  height: 703px;
+  overflow: hidden;
+  margin: 55px;
+  margin-left: 141.5px;
+  margin-top: 54.5px;
+}
+
+
+body {
+  background-image: url("./images/splashpage_background-static.jpg");
+  background-size: 1920px 1080px;
+  background-repeat: no-repeat;
+  font-family: 'Raleway', serif;
+  max-width: 1920px;
+  height: 1080px;
+  margin: 0px;
+}
